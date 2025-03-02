@@ -1,0 +1,155 @@
+{
+    "questions_OCEAN": [
+      {
+        //extraversion 1
+        "questionText": "A new traveler! Have you come to share your story? Step up, let the city hear you!",
+        "answers": [
+          "I never turn down a stage. What do I have to do?",
+          "Maybe another time. I'm just passing through.",
+          "(Avoid eye contact and move past.)"
+
+        ],
+      "traitPoints": [ 
+        [0, 0, 2, 0, 0],  
+        [0, 0, 0, 0, 0], 
+        [0, 0, -2, 0, 0]  
+        ]
+      },
+
+      {
+        //agreaableness 1
+        "questionText": "Echoes repeat themselves. If no one listens, they will argue for eternity.You must decide: Who speaks the truth?",
+        "answers": [
+          "Maybe both of you are right. Can we share the relic?",
+          "I don’t have enough information. Sort this out yourselves.",
+          "Only one of you can be right. And I think it's—(Choose Figure 1 or Figure 2.)"
+        ],
+        "traitPoints": [ 
+        [0, 0, 0, 2, 0],  
+        [0, 0, 0, 0, 0], 
+        [0, 0, 0, -2, 0]  
+        ]
+      },
+
+      {
+        //conscientiousness 1
+        "questionText": "You stand at the edge of a crumbling cliff, looking down into the ruins. There are three ways to descend",
+        "answers": [
+          "The safest path is to repair one of these stairways first.",
+          "I'll climb down carefully and find footholds along the way.",
+          "Why waste time? I'll just jump down and roll with it!"
+        ],
+        "traitPoints": [ 
+        [0, 2, 0, 0, 0],  
+        [0, 0, 0, 0, 0], 
+        [0, -2, 0, 0, 0]  
+        ]
+      },
+
+      {
+        //agreeableness 2
+        "questionText": "A choice, traveler. Will you carry another’s burden? Or lighten your own?",
+        "answers": [
+          "Lean on me. I’ll help you get to the gateway.",
+          "I can’t carry both of us. But I can show you the way.",
+          "I can’t afford to slow down. You’ll have to manage on your own."
+        ],
+        "traitPoints": [ 
+        [0, 0, 0, 2, 0],  
+        [0, 0, 0, 0, 0], 
+        [0, 0, 0, -2, 0]  
+        ]
+      },
+
+      {
+        //openness 1
+        "questionText": "What do you see, traveler?",
+        "answers": [
+          "A city that never sleeps, floating in the sky. Towers made of light, bridges woven from song.",
+          "A simple mountain, rising against the stars.",
+          "It's just a wall. Why waste time?"
+        ],
+        "traitPoints": [ 
+        [2, 0, 0, 0, 0],  
+        [0, 0, 0, 0, 0], 
+        [-2, 0, 0, 0, 0]  
+        ]
+      },
+
+      {
+        //neuroticism 1
+        "questionText": "The future is unknown. Can you walk forward, even when the path is uncertain?",
+        "answers": [
+          "I trust my footing. The path will reveal itself.",
+          "I’ll take it slow. I need to feel my way through.",
+          "This is impossible. I can't move. What if I fall?"
+        ],
+        "traitPoints": [ 
+        [0, 0, 0, 0, 2],  
+        [0, 0, 0, 0, 0], 
+        [0, 0, 0, 0, -2]  
+        ]
+      },
+
+      {
+        //openness 2
+        "questionText": "Reality is written by those who dare to dream. Will you add your own thread?",
+        "answers": [
+          "A kingdom hidden beneath the ocean, where cities glow like bioluminescent jellyfish.",
+          "A city like the one I came from. Maybe a little different.",
+          "It's just thread. What's the point?"
+        ],
+        "traitPoints": [ 
+        [2, 0, 0, 0, 0],  
+        [0, 0, 0, 0, 0], 
+        [-2, 0, 0, 0, 0]  
+        ]
+      },
+
+      {
+        //extraversion 2
+        "questionText": "A newcomer! And without a mask? How bold! The Masquerade welcomes all—but tell me, will you only watch, or will you join the gathering?",
+        "answers": [
+          "I love a good conversation. Who should I meet first?",
+          "I’ll talk to a few people, see what this is all about.",
+          "I prefer to observe. Crowds aren’t really my thing."
+        ],
+        "traitPoints": [ 
+        [0, 0, 2, 0, 0],  
+        [0, 0, 0, 0, 0], 
+        [0, 0, -2, 0, 0]  
+        ]
+      },
+
+      {
+        //neuroticism 2
+        "questionText": "Every traveler questions their path. But do you find fault… in others? In yourself? Or do you accept what is?",
+        "answers": [
+          "I did what I thought was right. No regrets.",
+          "Maybe I could have done things differently, but it’s too late to change them now.",
+          "I made mistakes. Maybe I wasn’t the person I thought I was."
+        ],
+        "traitPoints": [ 
+        [0, 0, 0, 0, 2],  
+        [0, 0, 0, 0, 0], 
+        [0, 0, 0, 0, -2]  
+        ]
+      },
+
+      {
+        //conscientiousness 2
+        "questionText": "Not all travelers see the full picture. Some rush forward, missing the truths hidden in the dust.The last piece of the Veil is here. But will you take the time to find it?",
+        "answers": [
+          "(You carefully scan the room, collecting every symbol, piecing together a hidden revelation.)",
+          "(You glance around, picking up some symbols before stepping forward.)",
+          "(You walk past the fragments, focusing only on the exit.)"
+        ],
+        "traitPoints": [ 
+        [0, 2, 0, 0, 0],  
+        [0, 0, 0, 0, 0], 
+        [0, -2, 0, 0, 0]  
+        ]
+      }
+      
+    ]
+  }

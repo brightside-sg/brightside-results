@@ -1,0 +1,87 @@
+{
+    "questions_gad": [
+      {
+        "questionText": "Have you felt nervous, anxious, or on edge recently?" ,
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you found yourself unable to stop worrying? Don't worry, it's perfectly normal to feel this way sometimes, even I experience this!",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you been worrying about many different things? It's okay—your mind is just trying to keep you safe.",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you had trouble relaxing?",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you felt restless, like you just can't sit still?",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Do you get easily annoyed or irritable? It's okay—these feelings often pass.",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you felt afraid, as if something awful might happen? Remember, fear is natural, and you're doing fantastic!",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "gad_score": [0, 1, 2, 3]
+      }
+    ]
+  }

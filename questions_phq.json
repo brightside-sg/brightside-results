@@ -1,0 +1,111 @@
+{
+    "questions_phq": [
+      {
+        "questionText": "Have you had little interest or pleasure in activities you usually enjoy?." ,
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you felt down, depressed, or hopeless?",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you had trouble sleeping? It’s okay, been there and done that, but trust me—the feeling will pass!",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you felt tired or had low energy recently? Rest is important—listen to your body.",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you struggled with appetite changes?.",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you felt bad about yourself or like you’ve let others down? Remember, all thats important is that you try, I’m proud of you!",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you had trouble concentrating, like your mind just won’t settle?",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you noticed changes in your movement—like being slower or more restless? Our bodies respond to stress in strange ways.",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      },
+
+      {
+        "questionText": "Have you had thoughts of being better off hurting yourself or gone? If you have, please remember you’re not alone—reach out for help.",
+        "answers": [
+          "Not at all",
+          "Several days",
+          "More than half the days",
+          "Nearly everyday"
+
+        ],
+        "phq_score": [0, 1, 2, 3]
+      }      
+    ]
+  }

@@ -1,0 +1,15 @@
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/bin/Debug/net9.0/OceanResults
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/bin/Debug/net9.0/OceanResults.deps.json
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/bin/Debug/net9.0/OceanResults.runtimeconfig.json
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/bin/Debug/net9.0/OceanResults.dll
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/bin/Debug/net9.0/OceanResults.pdb
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.AssemblyInfoInputs.cache
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.AssemblyInfo.cs
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.csproj.CoreCompileInputs.cache
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.sourcelink.json
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.dll
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/refint/OceanResults.dll
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.pdb
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/OceanResults.genruntimeconfig.cache
+/Users/darrenteo/Desktop/darprojects/brightside-results/OceanResults/obj/Debug/net9.0/ref/OceanResults.dll
